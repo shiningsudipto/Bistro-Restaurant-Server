@@ -1,0 +1,324 @@
+[
+    {
+        "name": "Caesar Salad",
+        "recipe": "Fresh romaine lettuce, Parmesan cheese, croutons, Caesar dressing",
+        "image": "https://i.ibb.co/QXh7Vdp/Caesar-Salad.jpg",
+        "price": 9.99,
+        "category": "salad"
+    },
+    {
+        "name": "Greek Salad",
+        "recipe": "Crisp lettuce, tomatoes, cucumbers, red onions, feta cheese, olives, Greek dressing",
+        "image": "https://i.ibb.co/DMrM0kr/Greek-Salad.jpg",
+        "price": 10.99,
+        "category": "salad"
+    },
+    {
+        "name": "Caprese Salad",
+        "recipe": "Fresh mozzarella cheese, tomatoes, basil leaves, balsamic glaze",
+        "image": "https://i.ibb.co/Gp5xgNw/Caprese-Salad.jpg",
+        "price": 11.99,
+        "category": "salad"
+    },
+    {
+        "name": "Waldorf Salad",
+        "recipe": "Fresh apples, celery, grapes, walnuts, and mayonnaise dressing",
+        "image": "https://i.ibb.co/P6XNRQR/Waldorf-Salad.jpg",
+        "price": 8.99,
+        "category": "salad"
+    },
+    {
+        "name": "Spinach Salad",
+        "recipe": "Baby spinach, strawberries, goat cheese, almonds, balsamic vinaigrette",
+        "image": "https://i.ibb.co/MBCg0H4/Spinach-Salad.jpg",
+        "price": 9.99,
+        "category": "salad"
+    },
+    {
+        "name": "Cobb Salad",
+        "recipe": "Lettuce, chicken, bacon, hard-boiled eggs, avocado, tomatoes, blue cheese dressing",
+        "image": "https://i.ibb.co/TTvd6zV/Cobb-Salad.jpg",
+        "price": 12.99,
+        "category": "salad"
+    },
+    {
+        "name": "Margherita Pizza",
+        "recipe": "Tomato sauce, mozzarella cheese, fresh basil",
+        "image": "https://i.ibb.co/C0tjBvj/Margherita-Pizza.jpg",
+        "price": 10.99,
+        "category": "pizza"
+    },
+    {
+        "name": "Pepperoni Pizza",
+        "recipe": "Tomato sauce, mozzarella cheese, pepperoni slices",
+        "image": "https://i.ibb.co/5K7F58K/Pepperoni-Pizza.jpg",
+        "price": 12.99,
+        "category": "pizza"
+    },
+    {
+        "name": "Hawaiian Pizza",
+        "recipe": "Tomato sauce, mozzarella cheese, ham, pineapple",
+        "image": "https://i.ibb.co/q77Zws6/Hawaiian-Pizza.jpg",
+        "price": 11.99,
+        "category": "pizza"
+    },
+    {
+        "name": "BBQ Chicken Pizza",
+        "recipe": "BBQ sauce, mozzarella cheese, grilled chicken, red onions, cilantro",
+        "image": "https://i.ibb.co/bbPHbtr/BBQ-Chicken-Pizza.jpg",
+        "price": 13.99,
+        "category": "pizza"
+    },
+    {
+        "name": "Mushroom and Truffle Pizza",
+        "recipe": "White sauce, mozzarella cheese, mushrooms, truffle oil, arugula",
+        "image": "https://i.ibb.co/CB21Pn5/Mushroom-and-Truffle-Pizza.jpg",
+        "price": 14.99,
+        "category": "pizza"
+    },
+    {
+        "name": "Veggie Supreme Pizza",
+        "recipe": "Tomato sauce, mozzarella cheese, bell peppers, onions, olives, mushrooms",
+        "image": "https://i.ibb.co/FgmqwLC/Veggie-Supreme-Pizza.webp",
+        "price": 13.99,
+        "category": "pizza"
+    },
+    {
+        "name": "Tomato Soup",
+        "recipe": "Fresh tomatoes, vegetable broth, onions, garlic, herbs",
+        "image": "https://i.ibb.co/HH49rzN/Tomato-Soup.jpg",
+        "price": 6.99,
+        "category": "soup"
+    },
+    {
+        "name": "Chicken Noodle Soup",
+        "recipe": "Chicken broth, chicken, noodles, carrots, celery, herbs",
+        "image": "https://i.ibb.co/gJ7n553/Chicken-Noodle-Soup.jpg",
+        "price": 7.99,
+        "category": "soup"
+    },
+    {
+        "name": "Minestrone Soup",
+        "recipe": "Vegetable broth, mixed vegetables, beans, pasta, herbs",
+        "image": "https://i.ibb.co/DKrFWSx/minestrone-g6e1ed91e3-640.jpg",
+        "price": 8.99,
+        "category": "soup"
+    },
+    {
+        "name": "Clam Chowder",
+        "recipe": "Creamy broth, clams, potatoes, onions, bacon",
+        "image": "https://i.ibb.co/bRT1Fqq/Clam-Chowder.webp",
+        "price": 9.99,
+        "category": "soup"
+    },
+    {
+        "name": "French Onion Soup",
+        "recipe": "Onions, beef broth, toasted bread, melted cheese",
+        "image": "https://i.ibb.co/7JB8QWG/French-Onion-Soup.jpg",
+        "price": 8.99,
+        "category": "soup"
+    },
+    {
+        "name": "Butternut Squash Soup",
+        "recipe": "Roasted butternut squash, vegetable broth, onions, spices",
+        "image": "https://i.ibb.co/cyT6K3n/Butternut-Squash-Soup.webp",
+        "price": 7.99,
+        "category": "soup"
+    },
+    {
+        "name": "Chocolate Cake",
+        "recipe": "Rich chocolate cake with chocolate ganache frosting",
+        "image": "https://i.ibb.co/4YGqNfS/Chocolate-Cake.jpg",
+        "price": 7.99,
+        "category": "dessert"
+    },
+    {
+        "name": "Apple Pie",
+        "recipe": "Flaky crust filled with cinnamon-spiced apples",
+        "image": "https://i.ibb.co/QdR7jR8/Apple-Pie.jpg",
+        "price": 8.99,
+        "category": "dessert"
+    },
+    {
+        "name": "Cheesecake",
+        "recipe": "Creamy cheesecake with a graham cracker crust",
+        "image": "https://i.ibb.co/ZMhgyty/Cheesecake.jpg",
+        "price": 9.99,
+        "category": "dessert"
+    },
+    {
+        "name": "Ice Cream Sundae",
+        "recipe": "Vanilla ice cream, chocolate sauce, whipped cream, nuts, and cherry",
+        "image": "https://i.ibb.co/hDSWySj/Ice-Cream-Sundae.jpg",
+        "price": 6.99,
+        "category": "dessert"
+    },
+    {
+        "name": "Crème Brûlée",
+        "recipe": "Creamy vanilla custard with a caramelized sugar topping",
+        "image": "https://i.ibb.co/p3WJmYj/Cr-me-Br-l-e.jpg",
+        "price": 7.99,
+        "category": "dessert"
+    },
+    {
+        "name": "Tiramisu",
+        "recipe": "Layered dessert with ladyfingers, coffee, mascarpone cheese, and cocoa",
+        "image": "https://i.ibb.co/rdkPxz9/Tiramisu.jpg",
+        "price": 8.99,
+        "category": "dessert"
+    },
+    {
+        "name": "Mojito",
+        "recipe": "Rum, lime juice, mint leaves, sugar, soda water",
+        "image": "https://i.ibb.co/5vt4Nnz/Mojito.jpg",
+        "price": 9.99,
+        "category": "drinks"
+    },
+    {
+        "name": "Margarita",
+        "recipe": "Tequila, lime juice, triple sec, salt rim",
+        "image": "https://i.ibb.co/bbtpB8N/Margarita.webp",
+        "price": 8.99,
+        "category": "drinks"
+    },
+    {
+        "name": "Espresso Martini",
+        "recipe": "Vodka, coffee liqueur, espresso, simple syrup",
+        "image": "https://i.ibb.co/XYn4KQf/Espresso-Martini.jpg",
+        "price": 10.99,
+        "category": "drinks"
+    },
+    {
+        "name": "Old Fashioned",
+        "recipe": "Whiskey, sugar, Angostura bitters, orange peel",
+        "image": "https://i.ibb.co/6s592mn/Old-Fashioned.jpg",
+        "price": 11.99,
+        "category": "drinks"
+    },
+    {
+        "name": "Piña Colada",
+        "recipe": "Rum, pineapple juice, coconut cream",
+        "image": "https://i.ibb.co/dmYLWxb/Pi-a-Colada.jpg",
+        "price": 9.99,
+        "category": "drinks"
+    },
+    {
+        "name": "Moscow Mule",
+        "recipe": "Vodka, ginger beer, lime juice",
+        "image": "https://i.ibb.co/591hTjG/Moscow-Mule.jpg",
+        "price": 10.99,
+        "category": "drinks"
+    },
+    {
+        "name": "Caesar Salad",
+        "recipe": "Fresh romaine lettuce, Parmesan cheese, croutons, Caesar dressing",
+        "image": "https://i.ibb.co/QXh7Vdp/Caesar-Salad.jpg",
+        "price": 9.99,
+        "category": "popular"
+    },
+    {
+        "name": "Margherita Pizza",
+        "recipe": "Tomato sauce, mozzarella cheese, fresh basil",
+        "image": "https://i.ibb.co/C0tjBvj/Margherita-Pizza.jpg",
+        "price": 10.99,
+        "category": "popular"
+    },
+    {
+        "name": "Tomato Soup",
+        "recipe": "Fresh tomatoes, vegetable broth, onions, garlic, herbs",
+        "image": "https://i.ibb.co/HH49rzN/Tomato-Soup.jpg",
+        "price": 6.99,
+        "category": "popular"
+    },
+    {
+        "name": "Chocolate Cake",
+        "recipe": "Rich chocolate cake with chocolate ganache frosting",
+        "image": "https://i.ibb.co/4YGqNfS/Chocolate-Cake.jpg",
+        "price": 7.99,
+        "category": "popular"
+    },
+    {
+        "name": "Mojito",
+        "recipe": "Rum, lime juice, mint leaves, sugar, soda water",
+        "image": "https://i.ibb.co/5vt4Nnz/Mojito.jpg",
+        "price": 9.99,
+        "category": "popular"
+    },
+    {
+        "name": "Greek Salad",
+        "recipe": "Crisp lettuce, tomatoes, cucumbers, red onions, feta cheese, olives, Greek dressing",
+        "image": "https://i.ibb.co/DMrM0kr/Greek-Salad.jpg",
+        "price": 10.99,
+        "category": "popular"
+    },
+    {
+        "name": "Caesar Salad",
+        "recipe": "Fresh romaine lettuce, Parmesan cheese, croutons, Caesar dressing",
+        "image": "https://i.ibb.co/QXh7Vdp/Caesar-Salad.jpg",
+        "price": 9.99,
+        "category": "offered"
+    },
+    {
+        "name": "Greek Salad",
+        "recipe": "Crisp lettuce, tomatoes, cucumbers, red onions, feta cheese, olives, Greek dressing",
+        "image": "https://i.ibb.co/DMrM0kr/Greek-Salad.jpg",
+        "price": 10.99,
+        "category": "offered"
+    },
+    {
+        "name": "Margherita Pizza",
+        "recipe": "Tomato sauce, mozzarella cheese, fresh basil",
+        "image": "https://i.ibb.co/C0tjBvj/Margherita-Pizza.jpg",
+        "price": 10.99,
+        "category": "offered"
+    },
+    {
+        "name": "Pepperoni Pizza",
+        "recipe": "Tomato sauce, mozzarella cheese, pepperoni slices",
+        "image": "https://i.ibb.co/5K7F58K/Pepperoni-Pizza.jpg",
+        "price": 12.99,
+        "category": "offered"
+    },
+    {
+        "name": "Tomato Soup",
+        "recipe": "Fresh tomatoes, vegetable broth, onions, garlic, herbs",
+        "image": "https://i.ibb.co/HH49rzN/Tomato-Soup.jpg",
+        "price": 6.99,
+        "category": "offered"
+    },
+    {
+        "name": "Chicken Noodle Soup",
+        "recipe": "Chicken broth, chicken, noodles, carrots, celery, herbs",
+        "image": "https://i.ibb.co/gJ7n553/Chicken-Noodle-Soup.jpg",
+        "price": 7.99,
+        "category": "offered"
+    },
+    {
+        "name": "Chocolate Cake",
+        "recipe": "Rich chocolate cake with chocolate ganache frosting",
+        "image": "https://i.ibb.co/4YGqNfS/Chocolate-Cake.jpg",
+        "price": 7.99,
+        "category": "offered"
+    },
+    {
+        "name": "Apple Pie",
+        "recipe": "Flaky crust filled with cinnamon-spiced apples",
+        "image": "https://i.ibb.co/QdR7jR8/Apple-Pie.jpg",
+        "price": 8.99,
+        "category": "offered"
+    },
+    {
+        "name": "Mojito",
+        "recipe": "Rum, lime juice, mint leaves, sugar, soda water",
+        "image": "https://i.ibb.co/5vt4Nnz/Mojito.jpg",
+        "price": 9.99,
+        "category": "offered"
+    },
+    {
+        "name": "Margarita",
+        "recipe": "Tequila, lime juice, triple sec, salt rim",
+        "image": "https://i.ibb.co/bbtpB8N/Margarita.webp",
+        "price": 8.99,
+        "category": "offered"
+    }
+]
